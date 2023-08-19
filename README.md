@@ -4,7 +4,7 @@
 ## Description
 Hey, , I am a 2nd year Master’s Student in Data Engineeeing and Web Technology at Farhat Abbas University
 ##Skills
-* I am a Designer and Developer of web and Mobile Softwar `Flutter frame work` & `MySQL` & `PHP`
+* I am a Designer and Developer Mobile Apps `Flutter frame work` & `MySQL` & `PHP`
 * I work as a video editor and creating visual effects with `Pr(Premiere Pro)` & `Ae(After Effects)`
 * I work as Graphic Designer Using `Ai(illustrator)` & `PS (PhotoShop)`
 ## Links
