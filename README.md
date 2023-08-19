@@ -1,5 +1,6 @@
 # Ahmed-Ziet
-[305681335_3293493360928727_1101425208563007202_n](https://github.com/zietahmed19/Ahmed-Ziet/assets/81768958/f42297fd-296a-4025-a0fe-a9db1f4d9541)
+![305681335_3293493360928727_1101425208563007202_n](https://github.com/zietahmed19/AhmedZiet/assets/81768958/e9a726ba-d5e8-48f4-aed4-6e952d80aabf)
+
 ## Description
 Hey, , I am a 2nd year Master’s Student in Data Engineeeing and Web Technology at Farhat Abbas University
 ##Skills
