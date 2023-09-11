@@ -28,15 +28,13 @@
 
 <div align="center"> 
  <div> 
-  <a href="https://www.behance.net/aimenhaddad" target="_blank"><img src="https://img.shields.io/badge/Behance-053eff?style=for-the-badge&logo=behance&logoColor=white" target="_blank"</a>
-  <a href="https://instagram.com/aimenhaddad_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-962FBF?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-   <a href="https://twitter.com/haddad_aimen" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-%23333?style=for-the-badge&logo=x&logoColor=white" target="_blank"></a>
- 	<a href="https://fb.com/aimenhaddad19" target="_blank">
+  <a href="[https://www.behance.net/aimenhaddad](https://www.behance.net/darkstarshaco)" target="_blank"><img src="https://img.shields.io/badge/Behance-053eff?style=for-the-badge&logo=behance&logoColor=white" target="_blank"</a>
+  <a href="https://www.instagram.com/ziet_ahmed/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-962FBF?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ 	<a href="https://www.facebook.com/ahmed.ziet.50/" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-4267B2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
-  <a href = "mailto:aymen.had2001@gmail.com">
+  <a href = "mailto:ahmed.ziet@gmail.com>
     <img src="https://img.shields.io/badge/-Gmail-BB001B?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://linkedin.com/in/aimenhaddad" target="_blank">
+  <a href="[https://linkedin.com/in/aimenhaddad](https://www.linkedin.com/in/ahmed-ziet/)" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
@@ -48,9 +46,9 @@
 <br/>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=androidstudio,java,flutter,dart,css,html,bootstrap,js,php,mysql,py,r,qt,c,cpp" />
+    <img src="https://skillicons.dev/icons?i=androidstudio,flutter,dart,css,html,bootstrap,js,php,mysql,py,r,cpp" />
     <img src="https://skillicons.dev/icons?i=git,docker,postman,github" />
-    <img src="https://skillicons.dev/icons?i=xd,figma,ps,ai" />
+    <img src="https://skillicons.dev/icons?i=xd,figma,ps,ai,pr,ae" />
   </a>
 </p>
 
